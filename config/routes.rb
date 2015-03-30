@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'next/thing'
+
   resources :high_scores
 
   get 'greetings/hello'
