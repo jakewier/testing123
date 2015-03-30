@@ -1,4 +1,4 @@
 class NextController < ApplicationController
-  def thing
+  def thingthing
   end
 end

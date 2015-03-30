@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'next/thingthing'
+
   get 'next/thing'
 
   resources :high_scores
